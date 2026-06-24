@@ -1,7 +1,7 @@
 # DEADLINE-HERO
 " NEVER- MISS WHAT MATTERS." 
 
--AI-powered productivity companion that helps users plan, prioritize, and meet deadlines.
+AI-powered productivity companion that helps users plan, prioritize, and meet deadlines.
 
 
 # Deadline Hero
