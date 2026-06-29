@@ -57,7 +57,7 @@ Screenshots will be added after deployment.
 
 ## 🚀 Deployment
 
-Coming Soon
+https://deadline-hero-companion-663428749973.asia-southeast1.run.app
 
 ---
 
