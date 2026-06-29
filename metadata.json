@@ -1,0 +1,6 @@
+{
+  "name": "Deadline Hero",
+  "description": "Never Miss What Matters. An AI-powered productivity companion that proactively plans, prioritizes, and guides you to meet every deadline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
