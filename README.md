@@ -72,7 +72,7 @@ Unlike traditional reminder applications, Deadline Hero goes beyond notification
 ![Calendar](Screenshots/Calender.png)
 
 ### 🤖 Hero AI Assistant
-![Hero AI](Screenshots/Hero AI.png)
+![Hero AI](Screenshots/ Hero AI .png)
 
 ### ⚙️ Settings
 ![Settings](Screenshots/Setting.png)
