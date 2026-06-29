@@ -1,20 +1,69 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 Deadline Hero
 
-# Run and deploy your AI Studio app
+> **AI-powered productivity companion that helps users plan, prioritize, and complete tasks before deadlines are missed.**
 
-This contains everything you need to run your app locally.
+## 📌 Problem Statement
 
-View your app in AI Studio: https://ai.studio/apps/efaf9ef1-3991-4db9-ba33-c021b3b73cd2
+**The Last-Minute Life Saver**
 
-## Run Locally
+Students, professionals, and entrepreneurs often miss important deadlines because traditional reminder apps only notify users without helping them take action.
 
-**Prerequisites:**  Node.js
+**Deadline Hero** solves this problem by acting as an intelligent AI productivity companion that helps users organize their work, prioritize tasks, and create actionable daily plans.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ Features
+
+* 🤖 AI-powered task prioritization
+* 📅 Smart daily schedule generation
+* ⏰ Context-aware deadline reminders
+* 🎯 Personalized productivity recommendations
+* 📊 Task progress tracking
+* 💡 AI-generated suggestions to improve focus and productivity
+
+---
+
+## 🛠️ Tech Stack
+
+* Google AI Studio
+* Gemini API
+* TypeScript
+* HTML
+* Vite
+
+---
+
+## 🎯 How It Works
+
+1. User adds tasks and deadlines.
+2. AI analyzes urgency and importance.
+3. Tasks are automatically prioritized.
+4. A personalized daily schedule is generated.
+5. AI provides productivity suggestions to help users stay on track and avoid missing deadlines.
+
+---
+
+## 💡 Why Deadline Hero?
+
+Unlike traditional reminder applications, Deadline Hero goes beyond notifications by helping users make better decisions, manage their workload effectively, and take meaningful action before deadlines are missed.
+
+---
+
+## 📷 Screenshots
+
+Screenshots will be added after deployment.
+
+---
+
+## 🚀 Deployment
+
+Coming Soon
+
+---
+
+## 👩‍💻 Developed By
+
+**Shreya Somkuwar**
+
+Built for the **Vibe2Ship Hackathon 2026** using **Google AI Studio**.
+
