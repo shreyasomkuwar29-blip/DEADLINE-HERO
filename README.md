@@ -51,7 +51,31 @@ Unlike traditional reminder applications, Deadline Hero goes beyond notification
 
 ## 📷 Screenshots
 
-Screenshots will be added after deployment.
+## 📷 Application Screenshots
+
+### 🏠 Home
+![Home](screenshots/Home.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### ✅ Task Management
+![Task](screenshots/Task.png)
+
+### 🎯 Focus Mode
+![Focus Mode](screenshots/FocusMode.png)
+
+### 📈 Insights
+![Insights](screenshots/Insights.png)
+
+### 📅 Calendar
+![Calendar](screenshots/Calender.png)
+
+### 🤖 Hero AI Assistant
+![Hero AI](screenshots/Hero AI.png)
+
+### ⚙️ Settings
+![Settings](screenshots/Setting.png)
 
 ---
 
