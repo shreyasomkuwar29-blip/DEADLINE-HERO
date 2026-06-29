@@ -54,28 +54,28 @@ Unlike traditional reminder applications, Deadline Hero goes beyond notification
 ## 📷 Application Screenshots
 
 ### 🏠 Home
-![Home](screenshots/Home.png)
+![Home](Screenshots/Home.png)
 
 ### 📊 Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### ✅ Task Management
-![Task](screenshots/Task.png)
+![Task](Screenshots/Task.png)
 
 ### 🎯 Focus Mode
-![Focus Mode](screenshots/FocusMode.png)
+![Focus Mode](Screenshots/FocusMode.png)
 
 ### 📈 Insights
-![Insights](screenshots/Insights.png)
+![Insights](Screenshots/Insights.png)
 
 ### 📅 Calendar
-![Calendar](screenshots/Calender.png)
+![Calendar](Screenshots/Calender.png)
 
 ### 🤖 Hero AI Assistant
-![Hero AI](screenshots/Hero AI.png)
+![Hero AI](Screenshots/Hero AI.png)
 
 ### ⚙️ Settings
-![Settings](screenshots/Setting.png)
+![Settings](Screenshots/Setting.png)
 
 ---
 
